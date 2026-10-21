@@ -8,6 +8,6 @@ Trained checkpoints are not distributed in this release and no public checkpoint
 
 Dataset terms: [Cityscapes](https://www.cityscapes-dataset.com/license/) and [ADE20K](https://ade20k.csail.mit.edu/terms/). Software and third-party license texts are retained within the archive.
 
-Public repository: <https://github.com/zxh135200/SegMAN-FIXSR>.
+Public repository: <https://github.com/zxh135200/ContextResolution>.
 
 When citing this resource in the manuscript, include this repository URL and an identifiable commit or release. No archival DOI is claimed by these files.
