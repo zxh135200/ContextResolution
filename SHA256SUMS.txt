@@ -1,1 +1,1 @@
-0222026dfe65450681a3dedaab0aef774b838dc5f50f463ca489804029332fae  SegMAN-FIXSR-code-and-results.zip
+f3b7f03dfd0de1a1ee14e54753e99135ddc54461f23e15b6d608720255e1563d  ContextResolution-code-and-results.zip

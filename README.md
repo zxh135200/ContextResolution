@@ -1,12 +1,12 @@
-# SegMAN-FIXSR: code and experimental evidence
+# Context-Resolution Allocation for Efficient State-Space Semantic Segmentation
 
-Reproducibility materials for the SegMAN stage-wise spatial-reduction policy-selection study. The original study archive is titled **Budget-Conditioned and Stability-Aware Spatial-Reduction Policy Selection for Semantic Segmentation**.
+Research code and experimental evidence for **Context-Resolution Allocation for Efficient State-Space Semantic Segmentation**. The public project is named **ContextResolution** and is based on the SegMAN implementation.
 
 ## Download the complete code and results
 
-**[Download the complete reproducibility bundle](https://github.com/zxh135200/SegMAN-FIXSR/raw/refs/heads/main/SegMAN-FIXSR-code-and-results.zip)** (approximately 22 MiB compressed).
+**[Download the complete reproducibility bundle](ContextResolution-code-and-results.zip?raw=true)** (approximately 22 MiB compressed).
 
-The code is distributed as an archive in this repository. Download and extract it to inspect or run the source; GitHub does not automatically expand uploaded ZIP files into a browsable source tree. The extracted `SegMAN-FIXSR/` directory contains the full runtime, modified study backbone, configurations, immutable raw evidence, numerical tables, provenance, licenses and reproduction scripts.
+The code is distributed as an archive in this repository. Download and extract it to inspect or run the source; GitHub does not automatically expand uploaded ZIP files into a browsable source tree. The extracted `ContextResolution/` directory contains the full runtime, modified study backbone, configurations, immutable raw evidence, numerical tables, provenance, licenses and reproduction scripts.
 
 | Evidence | Included records |
 |---|---:|
@@ -20,7 +20,7 @@ The Cityscapes policy lattice uses `s1 in {4,6,8}`, `s2 in {2,3,4}` and stages 3
 
 ## Quick verification
 
-After extracting the downloaded archive, open its `SegMAN-FIXSR/` directory and run:
+After extracting the downloaded archive, open its `ContextResolution/` directory and run:
 
 ```bash
 python scripts/verify_results.py
